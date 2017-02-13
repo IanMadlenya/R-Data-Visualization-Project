@@ -1,4 +1,4 @@
-# R-Projects
+# R-Data Visualization Project
 Projects Related To R
 This repository contains Data Visualization Project using R.
 A correlation between Corruption and Development
