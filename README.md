@@ -1,5 +1,5 @@
 # R-Data Visualization Project
-Projects Related To R
+
 This repository contains Data Visualization Project using R.
 A correlation between Corruption and Development
 Corruption Perceptions Index , 2011 (Rating from 1 To 10 where 10 is the least corrupt nation)
