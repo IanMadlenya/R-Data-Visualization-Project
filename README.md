@@ -9,3 +9,5 @@ Comparing the corruption index with the UN's Human Development Index (a measure 
 When the corruption index is between approximately 2.0 and 4.0 there appears to be little relationship with the human development index, but as it rises beyond 4.0 
 a stronger connection can be seen. 
 Outliers include small but well-run poorer countries such as Bhutan and Cape Verde, while Greece and Italy stand out among the richer countries.
+
+![economist1](https://cloud.githubusercontent.com/assets/16829371/26755972/5220262a-4866-11e7-9bce-042e91bc48db.png)
